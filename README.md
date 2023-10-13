@@ -17,7 +17,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Michael Garrison</samp>
+        <samp>Welcome to my page</samp>
 </h3>
 
 
