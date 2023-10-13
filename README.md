@@ -36,7 +36,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: mikeagarrison@gmail.com<br/><br/>
 
 
 </p>
@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/Garrison86">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Mike's GitHub streak"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=garrison86&theme=transparent" alt="GitHub Streak" /></a>
   </a>
 </p>
 
