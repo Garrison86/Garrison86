@@ -21,7 +21,7 @@
 </h3>
 
 
- <a href="[[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/michael-garrison-507b51109/)](https://www.linkedin.com/in/michael-garrison-507b51109/)" target="_blank">
+ <a href="https://www.linkedin.com/in/michael-garrison-507b51109/" target="_blank">
 <!--   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/> -->
  </a>
 
@@ -33,9 +33,6 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mikeagarrison@gmail.com<br/><br/>
 
 
@@ -59,10 +56,16 @@
 <br/>
 
 ## Top Open Source -
-[![Mike's Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Mike's Folio](https://github-readme-stats.vercel.app/api/pin/?username=Garrison86&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Garrison86/Website)
-[![Mike's Readme](https://github-readme-stats.vercel.app/api/pin/?username=Garrison86&repo=Garrison86&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Garrison86/README.md)
-[![Mike's Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Garrison86&repo=Garrison86.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Garrison86/Garrison86.github.io)
+[![Mike's Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Garrison86&repo=My_Website_PHP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Garrison86/My_Website_PHP)
+
+<!--Graph 1 -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Garrison86&theme=default)
+<!--Graph 2 -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Garrison86&theme=default)
+
+
+[![Mike's Folio](https://github-readme-stats.vercel.app/api/pin/?username=Garrison86&repo=Extra_C-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Garrison86/Extra_C-Projects)
+[![Mike's Readme](https://github-readme-stats.vercel.app/api/pin/?username=Garrison86&repo=PointersDemo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Garrison86/PointersDemo/README.md)
 
 <p align="left">
   <a href="https://github.com/Garrison86?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
